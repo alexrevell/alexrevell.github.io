@@ -10,3 +10,17 @@ a {
   text-align: center;
   margin: 0;
 }
+
+a {
+color: #1a247b;
+}
+
+header {
+background: #8ac4cb;
+border-color: #599a68;
+}
+
+h1, h2 {
+  color: #fff;
+}
+
