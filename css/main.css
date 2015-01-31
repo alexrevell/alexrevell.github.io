@@ -3,7 +3,7 @@ GENERAL
 *************************/
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Karma', sans-serif;
 }
 
 #wrapper {
@@ -44,7 +44,7 @@ header {
 }
 
 h1 {
-  font-family: 'Changa One', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
   margin: 15px 0;
   font-size: 1.75em;
   font-weight: normal;
@@ -184,31 +184,32 @@ PAGE: CONTACT
 /*************************
 COLORS
 *************************/
+/*maroon=#703030, charcoal=#2F343B,light_charcoal=#7E827A,dull-yellow=#E3CDA4,dark-peach=#C77966*/
 
 /* site body */
 body {
-  background-color: #fff;
+  background-color: #ffffff;
   color: #999;}
 
-/* green header */
+/* peachy maroon header */
 header {
-background: #8ac4cb;
-border-color: #599a68;
+background: #C77966;
+border-color: #703030;
 }
 
 /* nav background on mobile */
 nav {
-  background: #599a68;
+  background: #E3CDA4;
 }
 
 /* logo text */
 h1, h2 {
-  color: #fff;
+  color: #2F343B;
 }
 
 /* links */
 a {
-color: #1a247b;
+color: #7E827A;
 }
 
 /* nav link */
@@ -218,7 +219,7 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #2F343B;
 }
 
 
