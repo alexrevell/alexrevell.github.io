@@ -41,21 +41,24 @@ header {
 #logo {
   text-align: center;
   margin: 0;
+  background-image: url('../img/mo_logo.png');
 }
 
 h1 {
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Khand', sans-serif;
   margin: 15px 0;
   font-size: 1.75em;
-  font-weight: normal;
+  font-weight: 700;
   line-height: 0.8em;
 }
 
 h2 {
-  font-size: 0.5em;
+  font-size: 0.75em;
   margin: -5px 0 0;
   font-weight: normal;
 }
+
+.logo_image
 
 
 /*************************
@@ -155,7 +158,7 @@ PAGE: CONTACT
 
 .contact-info {
   list-style: none;
-  padding: 0
+  padding: 0;
   margin: 0;
   font-size: 0.9em;
 }
@@ -188,10 +191,11 @@ COLORS
 
 /* site body */
 body {
-  background-color: #ffffff;
-  color: #999;}
+  background-color: #7E827A;
+  color: #dddddd;
+}
 
-/* peachy maroon header */
+/* peach and maroon header */
 header {
 background: #C77966;
 border-color: #703030;
@@ -209,17 +213,17 @@ h1, h2 {
 
 /* links */
 a {
-color: #7E827A;
+color: #2F343B;
 }
 
 /* nav link */
 nav a, nav a:visited {
-  colour: #fff;
+  colour: #7E827A;
 }
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #2F343B;
+  color: #7E827A;
 }
 
 
