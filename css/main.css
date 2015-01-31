@@ -202,8 +202,9 @@ PAGE: VIDEOS
 *************************/
 
 #gallery li iframe {
+  float: center;
   text-align: center;
-  width: 45%;
+  width: 100%;
   margin: 2.5%;
 }
 
