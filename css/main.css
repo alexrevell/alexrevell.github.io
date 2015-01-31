@@ -3,7 +3,7 @@ GENERAL
 *************************/
 
 body {
-  font-family:'Karma', sans-serif;
+  font-family:'Karma';
 }
 
 #wrapper {
@@ -45,7 +45,7 @@ header {
 }
 
 h1 {
-  font-family: 'Khand', sans-serif;
+  font-family: 'Khand';
   margin: 15px 0;
   font-size: 2em;
   font-weight: 700;
@@ -53,7 +53,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Karma', sans-serif;
+  font-family: 'Karma';
   font-size: 0.8em;
   margin: -5px 0 0;
   font-weight: normal;
